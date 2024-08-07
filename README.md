@@ -13,7 +13,9 @@ DEMO HERE [video](https://www.youtube.com/watch?v=PQ75hVtuj0o)
 ## Requirements
 
 - Unity 2019.4 or later
-- Compatible Cellulo robots
+- Compatible Cellulo robots :
+![cellulo robot](cellulo.png)
+
 
 ## Getting Started
 
