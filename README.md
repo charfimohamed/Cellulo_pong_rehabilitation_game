@@ -2,6 +2,9 @@
 
 DEMO HERE [video](https://www.youtube.com/watch?v=PQ75hVtuj0o)
 
+![cellulo robot](cellulo.png)
+
+
 **Cellulo Pong Rehabilitation Game** is a Unity project developed in C# that combines robotics and gaming to create an engaging rehabilitation experience. In this game, players control robots to play a game of ping pong, enhancing physical rehabilitation through interactive gameplay.
 
 ## Features
@@ -13,9 +16,7 @@ DEMO HERE [video](https://www.youtube.com/watch?v=PQ75hVtuj0o)
 ## Requirements
 
 - Unity 2019.4 or later
-- Compatible Cellulo robots :
-![cellulo robot](cellulo.png)
-
+- Compatible Cellulo robots 
 
 ## Getting Started
 
