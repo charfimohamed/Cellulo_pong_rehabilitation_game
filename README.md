@@ -21,7 +21,7 @@ To run the **Cellulo Pong Rehabilitation Game** in Unity, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/Cellulo_pong_rehabilitation_game.git
+   git clone https://github.com/charfimohamed/Cellulo_pong_rehabilitation_game.git
 2. **Open the Project in Unity:**
 - Launch Unity Hub.
 - Click on the Open button.
